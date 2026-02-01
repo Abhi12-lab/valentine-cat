@@ -29,17 +29,16 @@ An interactive, responsive Valentine's Day confession game featuring an adorable
 
 ## 🚀 Deployment
 
-### Option 1: GitHub Pages
-1. Push to GitHub repository
-2. Enable GitHub Pages in settings
-3. Access at: `https://yourusername.github.io/valentine-cat/`
+The project includes **`index.html`** (same as `valentine-cat.html`) so the site works at the root URL when deployed.
 
-### Option 2: Netlify
-1. Drag and drop `valentine-cat.html` to [netlify.com](https://netlify.com)
-2. Get instant live URL
+- **GitHub Pages:** Push to a repo → Settings → Pages → Source: main branch. Site: `https://yourusername.github.io/repo-name/`
+- **Netlify:** Drag the project folder to [app.netlify.com/drop](https://app.netlify.com/drop) for an instant live URL
+- **Surge:** Run `npx surge .` from the project folder and follow the prompts
 
-### Option 3: Local
-1. Open `valentine-cat.html` in any modern web browser
+See **DEPLOY.md** for step-by-step instructions.
+
+### Local
+Open `valentine-cat.html` or `index.html` in any modern web browser.
 
 ## 💝 Customization
 
